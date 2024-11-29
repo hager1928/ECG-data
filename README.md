@@ -1,6 +1,8 @@
 DSP(digital signal processing) (3th year 2022/2023)
- MATLAB script that display a button this button is used to allow the user to select an ecg_data.mat file, then calculate the heart rate from this file. 
+
+MATLAB script that display a button this button is used to allow the user to select an ecg_data.mat file, then calculate the heart rate from this file. 
 The required task:
+
 ➢ Create Graphical User Interface (GUI) for your task.
 ➢ Display the button to get the ecg_data.mat ➢ Plot the ecg data and display it. 
 ➢ Calculate the heart rate and display it. 
